@@ -23,6 +23,8 @@
 * [Civilian Guidelines](civilian-center/civilian-guidelines.md)
 * [Blacklisted Scenarios](civilian-center/blacklisted-scenarios.md)
 * [Starting A Business](civilian-center/starting-a-business.md)
+* [Properties](civilian-center/properties.md)
+* [Illegal Activities](civilian-center/illegal-activities.md)
 
 ## Emergency Services Center
 
